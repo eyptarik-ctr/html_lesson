@@ -1,0 +1,28 @@
+h1 {
+    color:aliceblue;
+    background-color: rgb(24, 72, 88);
+
+}
+p {
+    background-color: red;
+}
+div {
+    color:pink;
+}
+.firstdiv {
+    color:brown;
+}
+body {
+    font-family: Pacifico;
+    text-align: center;
+    font-size:25px;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/4248/4248443.png");
+}
+#hi {
+    border: 1em dashed red;
+
+}
+#h2 {
+    border: 1em inset deeppink;
+
+}
